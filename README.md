@@ -14,3 +14,8 @@ go mod init github.com/agnusarev/memcache_loader_go
 go get github.com/bradfitz/gomemcache/memcache@v0.0.0-20230611145640-acc696258285
 go get google.golang.org/protobuf/cmd/protoc-gen-go@latest
 ````
+
+# run
+````bash
+go run main.go
+````
